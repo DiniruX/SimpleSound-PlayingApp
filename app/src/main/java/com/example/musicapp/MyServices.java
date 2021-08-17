@@ -8,10 +8,6 @@ import android.provider.Settings;
 
 import org.jetbrains.annotations.Nullable;
 
-/**
- * Created by Belal on 12/30/2016.
- */
-
 public class MyServices extends Service {
     //creating a mediaplayer object
     private MediaPlayer player;
